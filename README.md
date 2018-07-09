@@ -1,4 +1,4 @@
-# platformer
+# HTML5 2D Game Engine
 [![Build Status](https://travis-ci.org/jdiemke/platformer.svg?branch=master)](https://travis-ci.org/jdiemke/platformer)
 [![GitHub stars](https://img.shields.io/github/stars/jdiemke/platformer.svg)](https://github.com/jdiemke/platformer/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/jdiemke/platformer.svg)](https://github.com/jdiemke/platformer/network)
