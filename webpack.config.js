@@ -19,7 +19,7 @@ module.exports = {
             },
             {
                 test: /\.(png|jpg|mp3|ogg|wav)$/,
-                use: 'file-loader'
+                type: 'asset/resource'
             }
         ]
     },
