@@ -1,4 +1,6 @@
 # Pixel Game Engine
+![Build Status](https://github.com/jdiemke/platformer/actions/workflows/gh-pages.yml/badge.svg)
+[![Language](https://img.shields.io/badge/TypeScript-4.9.4-blue.svg)](https://www.typescriptlang.org/)
 
 A platformer game engine using HTML5 and TypeScript.
 
